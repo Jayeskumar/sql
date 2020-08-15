@@ -5,4 +5,9 @@ insert into student values(3'Akila','IT');
 insert into student values(4'Ragavi','IT');
 insert into student values(5,"Deepika",'IT');
 insert into student values(6,'Pradhapdurai','IT');
-insert into student values(7,'Prathima');
+insert into student values(7,'Prathima','IT');
+insert into student values(8,'Nivasan',IT');
+
+
+
+
