@@ -1,3 +1,3 @@
 # sql
-#This is the class student database created by jayes
+#This is the class student database for the tutorial
 
